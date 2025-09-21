@@ -54,8 +54,8 @@ importers:
         specifier: ^5.1.5
         version: 5.1.5(@netlify/blobs@10.0.10)(@types/node@22.10.2)(@vercel/blob@1.0.2)(jiti@2.5.1)(rollup@4.50.0)(tsx@4.19.2)(typescript@5.7.3)(yaml@2.8.1)
       dompurify:
-        specifier: ^3.2.3
-        version: 3.2.3
+        specifier: ^3.2.7
+        version: 3.2.7
       fastify:
         specifier: ^5.2.1
         version: 5.2.1
@@ -2443,8 +2443,8 @@ packages:
     resolution: {integrity: sha512-cgwlv/1iFQiFnU96XXgROh8xTeetsnJiDsTc7TYCLFd9+/WNkIqPTxiM/8pSd8VIrhXGTf1Ny1q1hquVqDJB5w==}
     engines: {node: '>= 4'}
 
-  dompurify@3.2.3:
-    resolution: {integrity: sha512-U1U5Hzc2MO0oW3DF+G9qYN0aT7atAou4AgI0XjWz061nyBPbdxkfdhfy5uMgGn6+oLFCfn44ZGbdDqCzVmlOWA==}
+  dompurify@3.2.7:
+    resolution: {integrity: sha512-WhL/YuveyGXJaerVlMYGWhvQswa7myDG17P7Vu65EWC05o8vfeNbvNf4d/BOvH99+ZW+LlQsc1GDKMa1vNK6dw==}
 
   domutils@3.2.2:
     resolution: {integrity: sha512-6kZKyUajlDuqlHKVX1w7gyslj9MPIXzIFiz/rGu35uC1wMi+kMhQwGhl4lt9unC9Vb9INnY9Z3/ZA3+FhASLaw==}
@@ -7271,7 +7271,7 @@ snapshots:
     dependencies:
       domelementtype: 2.3.0
 
-  dompurify@3.2.3:
+  dompurify@3.2.7:
     optionalDependencies:
       '@types/trusted-types': 2.0.7
 
